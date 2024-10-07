@@ -9,3 +9,4 @@ gdown
 python-dotenv
 wikipedia
 sentence-transformers
+accelerate
