@@ -7,3 +7,5 @@ mdit_plain
 pypdf
 gdown
 python-dotenv
+wikipedia
+sentence-transformers
