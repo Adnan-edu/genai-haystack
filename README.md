@@ -250,7 +250,7 @@ The repository is organized into distinct directories, each demonstrating a spec
         H -- Split Documents --> I(document_embedder);
         I -- Embedded Documents --> J(document_writer);
         J --> K[(DocumentStore)];
-        J --> L{/"Count of Docs Written"/};
+        J --> L[/"Count of Docs Written"/];
 
     ```
 *   **Key Components (Indexing):**
